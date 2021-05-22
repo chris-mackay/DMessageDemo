@@ -1,0 +1,11 @@
+C:\Programming\DMessageDemo\DMessageDemo\bin\Debug\DMessageDemo.exe.config
+C:\Programming\DMessageDemo\DMessageDemo\bin\Debug\DMessageDemo.exe
+C:\Programming\DMessageDemo\DMessageDemo\bin\Debug\DMessageDemo.pdb
+C:\Programming\DMessageDemo\DMessageDemo\bin\Debug\DialogMessage.dll
+C:\Programming\DMessageDemo\DMessageDemo\obj\Debug\DMessageDemo.MainForm.resources
+C:\Programming\DMessageDemo\DMessageDemo\obj\Debug\DMessageDemo.Properties.Resources.resources
+C:\Programming\DMessageDemo\DMessageDemo\obj\Debug\DMessageDemo.csproj.GenerateResource.cache
+C:\Programming\DMessageDemo\DMessageDemo\obj\Debug\DMessageDemo.csproj.CoreCompileInputs.cache
+C:\Programming\DMessageDemo\DMessageDemo\obj\Debug\DMessageDemo.csproj.CopyComplete
+C:\Programming\DMessageDemo\DMessageDemo\obj\Debug\DMessageDemo.exe
+C:\Programming\DMessageDemo\DMessageDemo\obj\Debug\DMessageDemo.pdb
